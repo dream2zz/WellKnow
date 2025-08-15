@@ -1,6 +1,7 @@
 WellKnow
 ===
-Welcome to the `WellKnow` .This project is used as an labs for my practice of `Well Logging Technology` related development practices.
+Welcome to the _WellKnow_.  
+This project is my lab for getting hands-on experience in _Well-logging_ technology development. 
 
 ## How to Start
 
